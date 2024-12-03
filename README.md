@@ -17,3 +17,14 @@ Genera todas las permutaciones posibles del conjunto de letras utilizando un alg
 Salida clara:
 
 Imprime todos los anagramas generados en la consola.
+
+
+=== Generador de Anagramas ===
+Ingrese un conjunto de letras (sin espacios ni caracteres especiales): xyz
+Los anagramas son:
+xyz
+xzy
+yzx
+yxz
+zxy
+zyx
