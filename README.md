@@ -28,3 +28,11 @@ yzx
 yxz
 zxy
 zyx
+
+
+
+
+Requisitos
+Java versión: 17.
+IDE recomendado: IntelliJ IDEA, Eclipse o cualquier editor de texto compatible con Java.
+
